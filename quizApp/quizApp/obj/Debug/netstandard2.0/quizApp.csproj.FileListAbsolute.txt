@@ -1,0 +1,12 @@
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\obj\Debug\netstandard2.0\quizApp.csprojAssemblyReference.cache
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\obj\Debug\netstandard2.0\quizApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\obj\Debug\netstandard2.0\quizApp.AssemblyInfoInputs.cache
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\obj\Debug\netstandard2.0\quizApp.AssemblyInfo.cs
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\bin\Debug\netstandard2.0\quizApp.deps.json
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\bin\Debug\netstandard2.0\quizApp.dll
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\bin\Debug\netstandard2.0\quizApp.pdb
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\obj\Debug\netstandard2.0\quizApp.dll
+C:\Users\Lucas Nolting\source\repos\quizApp\quizApp\quizApp\obj\Debug\netstandard2.0\quizApp.pdb
